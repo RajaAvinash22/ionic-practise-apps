@@ -1,7 +1,0 @@
-{
-  "name": "AuthProject",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
